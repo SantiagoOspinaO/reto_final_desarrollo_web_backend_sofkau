@@ -1,4 +1,4 @@
-## :nerd_face: SOFKAU - RETO FINAL - DESARROLLO WEB 2.1
+## :nerd_face: SOFKAU - RETO FINAL / BACKEND - DESARROLLO WEB 2.1
 
 
 **Ejecución**    
